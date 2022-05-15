@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 12 22:10:20 2022
-
-@author: administrator
-"""
-
 import math
 import cmath
 
